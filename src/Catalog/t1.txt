@@ -1,0 +1,2 @@
+t1 db 16 0 id 4 id 1 1 name -20 1 age 1 0 salary 2 0
+1 t1_PrimaryKey_id id

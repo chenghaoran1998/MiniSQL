@@ -1,0 +1,14 @@
+create table student(name char(100), collage char(100));
+insert into student values(Tom,CS);
+insert into student values(Tom,CS);
+insert into student values(Tom,CS);
+insert into student values(Tom,CS);
+insert into student values(Tom,CS);
+insert into student values(Tom,CS);
+insert into student values(Tom,CS);
+insert into student values(Tom,CS);
+insert into student values(Tom,CS);
+insert into student values(Tom,CS);
+insert into student values(Tom,CS);
+insert into student values(Tom,CS);
+insert into student values(Tom,CS);

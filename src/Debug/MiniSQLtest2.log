@@ -1,0 +1,18 @@
+﻿  API_Module.cpp
+c:\university\second\db\minisql\minisqltest2\minisqltest2\api_module.cpp(415): warning C4018: “>”: 有符号/无符号不匹配
+  Buffer_Manager.cpp
+c:\university\second\db\minisql\minisqltest2\minisqltest2\buffer_manager.cpp(250): error C4996: 'unlink': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _unlink. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(380): note: 参见“unlink”的声明
+  Catalog_Manager.cpp
+c:\university\second\db\minisql\minisqltest2\minisqltest2\catalog_manager.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+c:\university\second\db\minisql\minisqltest2\minisqltest2\catalog_manager.cpp(89): warning C4018: “<”: 有符号/无符号不匹配
+c:\university\second\db\minisql\minisqltest2\minisqltest2\catalog_manager.cpp(94): warning C4018: “<”: 有符号/无符号不匹配
+  Index_Manager.cpp
+  Interpreter.cpp
+c:\university\second\db\minisql\minisqltest2\minisqltest2\interpreter.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+c:\university\second\db\minisql\minisqltest2\minisqltest2\interpreter.cpp(133): warning C4018: “<”: 有符号/无符号不匹配
+c:\university\second\db\minisql\minisqltest2\minisqltest2\interpreter.cpp(1068): warning C4101: “length”: 未引用的局部变量
+  main.cpp
+c:\university\second\db\minisql\minisqltest2\minisqltest2\main.cpp(6): warning C4326: “main”的返回类型应为“int”而非“void”
+  Record_Manager.cpp
+  正在生成代码...

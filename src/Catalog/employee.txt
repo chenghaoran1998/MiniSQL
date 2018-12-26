@@ -1,0 +1,2 @@
+employee db 95 324 id 7 id 1 1 name -32 1 gender -1 0 age 1 0 salary 2 0 country -2 0 email -64 1
+1 employee_PrimaryKey_id id
